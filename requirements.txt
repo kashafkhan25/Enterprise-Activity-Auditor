@@ -1,0 +1,14 @@
+# ====================================================================
+# UAAS Project Core Dependencies
+# ====================================================================
+
+# Low-level OS Event Hooking
+keyboard==0.13.5
+pygetwindow==0.0.9
+
+# Cryptography & Security Infrastructure
+cryptography==50.0.2
+
+# Analytics Visual Web Interface 
+streamlit==1.65.0
+pandas==3.0.6
